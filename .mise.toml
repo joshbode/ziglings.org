@@ -1,0 +1,3 @@
+[env]
+_.nix = true
+LLDB_USE_NATIVE_PDB_READER = "yes"
